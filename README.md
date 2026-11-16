@@ -131,6 +131,14 @@
 
 
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake.svg" width="100%" />
+</picture>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=F9C6D9,F4A6C6,E8709F&height=120&section=header" width="100%" alt="footer" />
 </div>
 
