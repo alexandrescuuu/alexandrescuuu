@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=F9C6D9,F4A6C6,E8709F&height=120&section=header&text=Hi,%20I'm%20Elena&fontSize=44&fontColor=ffffff" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C2457A&center=true&vCenter=true&width=650&lines=Master's+student+in+Computer+Science;Web+%7C+Mobile+%7C+AI+%26+ML" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
@@ -130,14 +128,6 @@
 
 
 
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/alexandrescuuu/alexandrescuuu/output/github-snake.svg" width="100%" />
-</picture>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=F9C6D9,F4A6C6,E8709F&height=120&section=header" width="100%" alt="footer" />
 </div>
